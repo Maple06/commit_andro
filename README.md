@@ -3,12 +3,12 @@
 
 ### Pages:
 * Login page
-![Login page](_READMEimages/login.jpg =324x720)
+![Login page](_READMEimages/login.jpg | height=720)
 * Register page
-![Register page](_READMEimages/register.jpg =324x720)
+![Register page](_READMEimages/register.jpg | height=720)
 * Tugas ListTile Vertikal
-![Listtile vertical page](_READMEimages/listtile_vertical.jpg =324x720)
+![Listtile vertical page](_READMEimages/listtile_vertical.jpg | height=720)
 * Tugas ListTile Kotak
-![Listtile square page](_READMEimages/listtile_square.jpg =324x720)
+![Listtile square page](_READMEimages/listtile_square.jpg | height=720)
 * Tugas Power
-![Power page](_READMEimages/power.jpg =324x720)
+![Power page](_READMEimages/power.jpg | height=720)
