@@ -11,4 +11,4 @@
 * Tugas ListTile Kotak
 <img src="_READMEimages/listtile_square.jpg" alt="Listtile square page" height="720">
 * Tugas Power
-<img src="_READMEimages/power.jpg" alt="Power page" height="720">
+<img src="_READMEimages/tugas_power.jpg" alt="Power page" height="720">
