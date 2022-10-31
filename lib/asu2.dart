@@ -14,17 +14,23 @@ class _KamuAsuState extends State<KamuAsu> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: const Text("Contacts List"),
+      ),
       body: SingleChildScrollView(
         child: Padding(
           padding: EdgeInsets.all(10),
           child: Column(
             children: [
+              verticalSpaceSmall,
               ElevatedButton(onPressed: (){setState(() {
                 _listCount++;
-              });}, child: Text(
+              });},
+                child: Text(
                   'Add List',
                 ),
               ),
+              verticalSpaceSmall,
               ListView.builder(
                 physics: ScrollPhysics(parent: null),
                 shrinkWrap: true,

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'asu2.dart';
+import 'package:kommit/ui/ui_helper.dart';
 import 'dashboard.dart';
+import 'register.dart';
 
 void main() {
   runApp(const MyApp());
@@ -38,6 +39,10 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _navigateToDashboard(BuildContext context){
     Navigator.of(context).push(MaterialPageRoute(builder: (context) => const Dashboard()));
+  }
+
+  void _navigateToRegister(BuildContext context){
+    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const Register()));
   }
 
   @override
@@ -117,6 +122,13 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                     ),
                   ),
+                ),
+                verticalSpaceSmall,
+                ElevatedButton(
+                    onPressed: (){
+                      _navigateToRegister(context);
+                    },
+                    child: Text("Register"),
                 ),
               ],
             ),

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'homebox.dart';
 import 'asu2.dart';
-import 'register.dart';
 import 'tugas.dart';
 import 'page5.dart';
+import 'inputnama.dart';
 
 class Dashboard extends StatefulWidget {
   const Dashboard({Key? key}) : super(key: key);
@@ -23,7 +23,7 @@ class _DashboardState extends State<Dashboard> {
 
   static const List<Widget> pageList = [
     KamuAsu(),
-    Register(),
+    InputNama(),
     HomeBox(),
     Tugas(),
     Page5(),
