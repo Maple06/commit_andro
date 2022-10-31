@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'homebox.dart';
-import 'asu2.dart';
+import 'contact_list.dart';
 import 'tugas.dart';
 import 'page5.dart';
 import 'inputnama.dart';
@@ -22,7 +22,7 @@ class _DashboardState extends State<Dashboard> {
   }
 
   static const List<Widget> pageList = [
-    KamuAsu(),
+    ContactList(),
     InputNama(),
     HomeBox(),
     Tugas(),

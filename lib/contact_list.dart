@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'ui/ui_helper.dart';
 
-class KamuAsu extends StatefulWidget {
-  const KamuAsu({Key? key}) : super(key: key);
+class ContactList extends StatefulWidget {
+  const ContactList({Key? key}) : super(key: key);
 
   @override
-  State<KamuAsu> createState() => _KamuAsuState();
+  State<ContactList> createState() => _ContactListState();
 }
 
-class _KamuAsuState extends State<KamuAsu> {
+class _ContactListState extends State<ContactList> {
   int _listCount = 1;
 
   @override
