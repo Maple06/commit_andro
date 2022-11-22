@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "90779494002",
+    "project_id": "commit-andro",
+    "storage_bucket": "commit-andro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90779494002:android:3d932c5888fcc772eec4eb",
+        "android_client_info": {
+          "package_name": "com.example.kommit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90779494002-hei6d0233hb5gf80qojjvaa0nlonnp9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzrPH1x5lRP0H3BzTj1lTQ_ZTH39Kr1n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90779494002-hei6d0233hb5gf80qojjvaa0nlonnp9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90779494002-pgn0q25395s2pb4aelptdt6vftsgtd4a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kommit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
