@@ -2,13 +2,8 @@
 ## Ini repository progress COMMIT android Malendra XI RPL 2.
 
 ### Pages:
-- Login page
-<img src="_READMEimages/login.jpg" alt="Login page" height="720">
-- Register page
-<img src="_READMEimages/register.jpg" alt="Register page" height="720">
-- Tugas ListTile Vertikal
-<img src="_READMEimages/listtile_vertical.jpg" alt="Listtile vertical page" height="720">
-- Tugas ListTile Kotak
-<img src="_READMEimages/listtile_square.jpg" alt="Listtile square page" height="720">
-- Tugas Power
-<img src="_READMEimages/tugas_power.jpg" alt="Power page" height="720">
+- Login page <br> ![Login page](https://github.com/Maple06/commit_andro/blob/main/_READMEimages/login.jpg?raw=true)
+- Register page <br> ![Login page](https://github.com/Maple06/commit_andro/blob/main/_READMEimages/register.jpg?raw=true)
+- Tugas ListTile Vertikal <br> ![Login page](https://github.com/Maple06/commit_andro/blob/main/_READMEimages/listtile_vertical.jpg?raw=true)
+- Tugas ListTile Kotak <br> ![Login page](https://github.com/Maple06/commit_andro/blob/main/_READMEimages/listtile_square.jpg?raw=true)
+- Tugas Power <br> ![Login page](https://github.com/Maple06/commit_andro/blob/main/_READMEimages/tugas_power.jpg?raw=true)
